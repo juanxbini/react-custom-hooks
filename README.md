@@ -35,10 +35,12 @@ Editar
     ├── package.json        # Configuración para publicación en npm
 ```
 ## 📌 Lista de Hooks Disponibles
-| Hook |	Descripción |
-|-------------|-------------|-------------|
-| useFetch | Hook para manejar peticiones HTTP con fetch, optimizado con useCallback.|
-|🚀 Más hooks próximamente...	||
+
+| Hook      | Descripción |
+|-----------|------------------------------------------|
+| useFetch  | Hook para manejar peticiones HTTP con fetch, optimizado con useCallback. |
+| 🚀 Más hooks próximamente... | |
+
 ## 📥 Instalación
 Puedes instalar un hook desde npm si está disponible, o simplemente copiar el archivo en tu proyecto.
 
