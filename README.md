@@ -1,11 +1,11 @@
-🚀# React Custom Hooks
+# 🚀 React Custom Hooks
 
 ¡Bienvenido a **React Custom Hooks**! 🎉  
 Este repositorio contiene una colección de **hooks personalizados** en React, diseñados para mejorar la reutilización del código y optimizar el desarrollo de aplicaciones.
 
 ---
 
-📌## ¿Qué son los Custom Hooks?
+## 📌 ¿Qué son los Custom Hooks?
 Los **custom hooks** en React son funciones que encapsulan lógica reutilizable utilizando los hooks nativos (`useState`, `useEffect`, `useCallback`, etc.).  
 Estos hooks permiten mejorar la organización del código y evitar la repetición en los componentes.
 
@@ -21,7 +21,7 @@ const useCounter = () => {
 ```
 Puedes usar este hook en cualquier componente sin necesidad de duplicar la lógica de estado.
 
-📂## Estructura del Repositorio
+## 📂 Estructura del Repositorio
 Cada hook tiene su propia carpeta con su implementación, documentación y ejemplos de uso.
 ```
 bash
@@ -34,12 +34,12 @@ Editar
     ├── README.md           # Documentación del hook
     ├── package.json        # Configuración para publicación en npm
 ```
-📌## Lista de Hooks Disponibles
+## 📌 Lista de Hooks Disponibles
 | Hook |	Descripción |
 |-------------|-------------|-------------|
 | useFetch | Hook para manejar peticiones HTTP con fetch, optimizado con useCallback.|
 |🚀 Más hooks próximamente...	||
-📥## Instalación
+## 📥 Instalación
 Puedes instalar un hook desde npm si está disponible, o simplemente copiar el archivo en tu proyecto.
 
  ### Instalar desde npm
@@ -66,7 +66,7 @@ js
 import useFetch from "./hooks/useFetch";
 ```
 
-📌## Ejemplo de Uso
+## 📌 Ejemplo de Uso
 ```
 js
 import useFetch from "./hooks/useFetch";
@@ -88,22 +88,22 @@ const ExampleComponent = () => {
 
 export default ExampleComponent;
 ```
-📌# Contribuciones
+## 📌 Contribuciones
 Si tienes ideas para mejorar los hooks o agregar nuevos, ¡serás bienvenido! 🚀
 
-1️⃣ ### Haz un fork del repositorio
+### 1️⃣ Haz un fork del repositorio
 Presiona el botón "Fork" en GitHub y clona el repositorio en tu máquina.
 ```
 sh
 git clone https://github.com/tu_usuario/react-custom-hooks.git
 cd react-custom-hooks
 ```
-2️⃣ ### Crea una nueva rama para tu hook
+### 2️⃣  Crea una nueva rama para tu hook
 ```
 sh
 git checkout -b feature/nuevo-hook
 ```
-3️⃣ ### Agrega tu hook en una nueva carpeta siguiendo la estructura
+### 3️⃣ Agrega tu hook en una nueva carpeta siguiendo la estructura
 ```
 bash
 /react-custom-hooks
@@ -112,7 +112,7 @@ bash
     ├── ExampleComponent.js
     ├── README.md
 ```
-4️⃣ ### Realiza un commit y envía tu PR
+### 4️⃣ Realiza un commit y envía tu PR
 ```
 sh
 git add .
@@ -121,10 +121,10 @@ git push origin feature/nuevo-hook
 ```
 Luego, abre un Pull Request (PR) en GitHub para que revisemos tu aporte. 🎉
 
-📜 ## Licencia
+## 📜 Licencia
 Este proyecto está bajo la licencia MIT, lo que significa que puedes usarlo y modificarlo libremente. 🎉
 
-📞 ## Contacto
+## 📞  Contacto
 Si tienes preguntas o sugerencias, no dudes en abrir un issue o contactarme en GitHub.
 
 🚀 ¡Gracias por visitar este repositorio! ¿Listo para optimizar tu código en React con hooks reutilizables? 💡
