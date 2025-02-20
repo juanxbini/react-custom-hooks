@@ -35,7 +35,7 @@ Cada hook tiene su propia carpeta con su implementación, documentación y ejemp
 
 | Hook      | Descripción |
 |-----------|------------------------------------------|
-| useFetch  | Hook para manejar peticiones HTTP con fetch, optimizado con useCallback. |
+| [useFetch](useFetch/)  | Hook para manejar peticiones HTTP con fetch, optimizado con useCallback. |
 | 🚀 Más hooks próximamente... | 
 
 ## 📥 Instalación
