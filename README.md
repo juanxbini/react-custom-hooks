@@ -39,7 +39,7 @@ Editar
 | Hook      | Descripción |
 |-----------|------------------------------------------|
 | useFetch  | Hook para manejar peticiones HTTP con fetch, optimizado con useCallback. |
-| 🚀 Más hooks próximamente... | |
+| 🚀 Más hooks próximamente... | 
 
 ## 📥 Instalación
 Puedes instalar un hook desde npm si está disponible, o simplemente copiar el archivo en tu proyecto.
